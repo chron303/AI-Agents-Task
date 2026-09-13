@@ -5,7 +5,7 @@ This document explains how to set up and run the three AI agents in this reposit
 ## Repository Structure
 
 ```
-AI-Engineer-Assignment-Complete-Project/
+AI-Agents-Task/
     Assignment 1 - Content Writing Agent/
     Assignment 2 - Copywriting and Ads Agent/
     Assignment 3 - Video Production Agent/
@@ -34,7 +34,7 @@ On some systems, particularly Linux and macOS, you may need to use `python3` and
 
 ```
 git clone https://github.com/chron303/AI-Agents-Task.git
-cd AI-Engineer-Assignment-Complete-Project
+cd AI-Agents-Task
 ```
 
 If you received this project as a ZIP file instead, extract it and open a terminal in the extracted folder.
